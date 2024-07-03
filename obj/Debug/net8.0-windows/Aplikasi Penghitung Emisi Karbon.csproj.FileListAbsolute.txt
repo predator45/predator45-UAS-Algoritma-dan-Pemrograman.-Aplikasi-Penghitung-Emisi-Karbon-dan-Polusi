@@ -1,0 +1,142 @@
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Form1.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.GenerateResource.cache
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfoInputs.cache
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfo.cs
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.CoreCompileInputs.cache
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.exe
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.deps.json
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.runtimeconfig.json
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\refint\Aplikasi Penghitung Emisi Karbon.dll
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.genruntimeconfig.cache
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\ref\Aplikasi Penghitung Emisi Karbon.dll
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Properties.Resources.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormEmisiGas.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormEnergi.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungBahanKimia.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungBOD.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungKontaminanTanah.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungLeq.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungPartikulat.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMakanan.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusi.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTotalEmisi.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTransportasi.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMenu.resources
+D:\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.sourcelink.json
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.exe
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.deps.json
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.runtimeconfig.json
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Form1.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormEmisiGas.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormEnergi.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHasilEmisi.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungBahanKimia.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungBOD.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungKontaminanTanah.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungPartikulat.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMakanan.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMenu.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusi.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTotalEmisi.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTransportasi.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Properties.Resources.resources
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.GenerateResource.cache
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfoInputs.cache
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfo.cs
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.CoreCompileInputs.cache
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.sourcelink.json
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\refint\Aplikasi Penghitung Emisi Karbon.dll
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.genruntimeconfig.cache
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\ref\Aplikasi Penghitung Emisi Karbon.dll
+E:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Form.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.exe
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.deps.json
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.runtimeconfig.json
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Form.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Form1.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormEmisiGas.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormEnergi.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHasilEmisi.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungBahanKimia.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungBOD.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungKontaminanTanah.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHitungPartikulat.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMakanan.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMenu.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusi.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTotalEmisi.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTransportasi.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Properties.Resources.resources
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.GenerateResource.cache
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfoInputs.cache
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfo.cs
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.sourcelink.json
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\refint\Aplikasi Penghitung Emisi Karbon.dll
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.genruntimeconfig.cache
+D:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\ref\Aplikasi Penghitung Emisi Karbon.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.exe
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll.config
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.deps.json
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.runtimeconfig.json
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.AssemblyReference.cache
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.DatabaseHelper.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormEnergi.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormHasilEmisi.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMakanan.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormMenu.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusiAir.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusiCahaya.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusiSuara.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusiTanah.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormPolusiUdara.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormRadiasiPengion.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormRegister.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTotalEmisi.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.FormTransportasi.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.LoginForm.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi_Penghitung_Emisi_Karbon.Properties.Resources.resources
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.GenerateResource.cache
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfoInputs.cache
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.AssemblyInfo.cs
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.csproj.CoreCompileInputs.cache
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.sourcelink.json
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi.DBC94928.Up2Date
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\refint\Aplikasi Penghitung Emisi Karbon.dll
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.pdb
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\Aplikasi Penghitung Emisi Karbon.genruntimeconfig.cache
+C:\Project Visual Studio 2022\Aplikasi Penghitung Emisi Karbon\Aplikasi Penghitung Emisi Karbon\obj\Debug\net8.0-windows\ref\Aplikasi Penghitung Emisi Karbon.dll
